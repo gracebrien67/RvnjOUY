@@ -2,7 +2,6 @@ private import "engine_sim.mr"
 
 units units()
 
-public node chevy_bbc_stock_intake {
     input carburetor_cfm: 650.0;
     input idle_flow_rate_cfm: 1.0;
     input throttle_gamma: 2.0;
